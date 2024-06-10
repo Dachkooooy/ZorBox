@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Lancôme La Vie Est Belle Комплект за Жени",
+        "price": "199.99",
+        "products": "La Vie Est Belle парфюмна вода 50 мл. + La Vie Est Belle лосион за тяло 50 мл. + Hypnôse спирала за мигли 2 мл.",
+        "imageUrl": "https://www.mccabespharmacy.com/cdn/shop/files/LancomeLaVieEstBelleEDP50mlSet0.jpg?v=1713436938",
+        "quantity": 100,
+        "isAvailable": true
+    },
+    {
+        "name": "Shiseido Ginza Tokyo Комплект за Жени",
+        "price": "289.99",
+        "products": "Shiseido Ginza парфюмна вода 90 мл. +Shiseido Ginza тоалетно мляко за тяло 50 мл. +Shiseido Ginza мини парфюмна вода 10 мл.",
+        "imageUrl": "https://cdn.deloox.com/cdn/product/1279483/444574_768.jpg",
+        "quantity": 100,
+        "isAvailable": true
+    },
+    {
+        "name": "Armani Acqua di Giò Hom Комплект за Мъже",
+        "price": "219.99",
+        "products": "Acqua di Giò парфюмна вода 125 мл. +Acqua di Giò лосион 75 мл. +Acqua di Giò мини парфюм 15 мл.",
+        "imageUrl": "https://valenciaperfumes.com/cdn/shop/files/image_4711dcc1-4f56-445d-b1cb-cf578a288420.png?v=1688154888",
+        "quantity": 100,
+        "isAvailable": true
+    },
+    {
+        "name": "Tom Ford Black Orchid Комплект за Мъже",
+        "price": "359.99",
+        "products": "Black Orchid парфюмна вода 50 мл. + Black Orchid хидратираща емулсия 75 мл.",
+        "imageUrl": "https://johnlewis.scene7.com/is/image/JohnLewis/237144028",
+        "quantity": 100,
+        "isAvailable": true
+    }
+]
